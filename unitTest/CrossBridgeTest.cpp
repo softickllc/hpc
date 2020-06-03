@@ -182,7 +182,7 @@ int CrossingBridge::get_minimum_crossing_time(unsigned int n,vector<float> perso
 }
 
 
-int main(void)
+/*int main(void)
 {
 	
         //Create object to get the time taken to cross the bridge
@@ -191,4 +191,4 @@ int main(void)
 	printf("The Minimum crossing time: %f\n",totalTimeTaken);
 	return 0;
 	
-}
+}*/
