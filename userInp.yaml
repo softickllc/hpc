@@ -1,0 +1,23 @@
+---
+# crossing Persons on Bridges record
+bridges: 3
+length:
+    - 100
+    - 250
+    - 150
+personsPosition:
+    - 1
+    - 1
+    - 1
+    - 1
+    - 2
+    - 3
+    - 3  
+personsSpeed:
+    - 100
+    - 20
+    - 50
+    - 10
+    - 2.5
+    - 25
+    - 15
